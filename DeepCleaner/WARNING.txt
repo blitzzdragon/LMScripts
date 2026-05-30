@@ -1,0 +1,12 @@
+⚠ DEEP CLEANER - EXPERIMENTAL
+
+This tool is still experimental.
+It has NOT been fully reviewed or tested.
+
+Before running or sharing:
+  - Review all code paths carefully
+  - Test in a safe / isolated environment
+  - Verify it does not delete important data
+  - Ensure all edge cases are handled
+
+Use at your own risk.
