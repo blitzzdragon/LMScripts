@@ -1,0 +1,1 @@
+This GitHub page is a space for everybody to be able to take and use some of the scripts I have built and run on my Linux Mint laptop. These scripts may not be super performant, and one, the deepcleaner, is experimental. In my time of using it, nothing has gone wrong, but there's always the risk
